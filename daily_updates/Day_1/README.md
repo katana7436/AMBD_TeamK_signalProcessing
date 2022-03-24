@@ -56,7 +56,13 @@ All add your agendas down.
 
 
 ## 9. Anushi Chauhan 
-
+### Target
+1. Feature Selection
+2. Logic
+3. Basic Model
+### Achieved
+1. Feature Selection
+2. Logic
 ## 10. Rajeev Ranjan
 ### Target
 1. Wireless Communication Onramp
