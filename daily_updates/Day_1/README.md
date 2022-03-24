@@ -12,7 +12,18 @@ All add your agendas down.
  2. Wireless onramp -50%
  3.In process
  
-## 2. U.Goutam
+## 2. U.Goutham
+### Target :
+ 1. Feature selection
+ 2. finding the right toolbox
+ 3. Getting requirements
+ 4. Basic model
+ 
+  Achieved:
+ 1. finding the right toolbox
+ 2. Audio onramp -20%
+ 3. In process
+ 4. Done
 
 ## 3. Yogesh S.V (99007456)
 ### Target :
