@@ -11,7 +11,7 @@
 | --- | --- |
 |1_Model | This folder contains final integerated model |
 | 2_Project_Documents | Document detailing project research, requirements and architechture|
-| 3_Compliance (License Based) | License standard |
+| 3_Compliance (License Based) | License standard <br>1. Metrics_Dashboard <br>2. Model_Advisor <br>3. Model_Coverage  |
 | 4_Test_Results| This folder contains all the test plans |
 | 5_Embedded_C_Executable(License Based) | This folder contains code generted from the model |
 | 6_Older_Models | This folder contains older versions of the integerated project  |
