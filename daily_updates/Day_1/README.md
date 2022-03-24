@@ -45,12 +45,13 @@ All add your agendas down.
 
 ## 8. Amit Kumar
 ### Target
-1.finding the right toolbox
-2.Image Processing onramp
+1. finding the right toolbox
+2. Image Processing onramp
+3. Basic Model
 
 ### Archieved
-1.finding the right toolbox
-2.Image Processing onramp - 80%
+1. finding the right toolbox
+2. Image Processing onramp - 80%
 
 
 
@@ -75,9 +76,10 @@ All add your agendas down.
 ## 11. Riya Kumari
 ### Target :
 1. Getting Requirements
-2.Image Processing onramp
+2. Feature selection
+3. Image Processing onramp
 ### Achieved
-1.In Process
-2.Image Processing onramp - 40%
+1. In Process
+2. Image Processing onramp - 40%
 
 
