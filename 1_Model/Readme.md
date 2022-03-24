@@ -1,1 +1,1 @@
-## This folder contains final integerated MatLab model file 
+## This folder contains final integerated Matlab model file 
