@@ -63,8 +63,24 @@ Original Image
  2. Image signal onramp -48%
 
 ## 6. Guru Teja Reddy
+### Target
+1. Research on project 
+2. Image processing on ramp
+
+### Achieved
+1. Features selection
+3. 60% Image Processing on ramp
 
 ## 7. Raja Sekhar 
+### Target
+1. Research on project 
+2. Image processing on ramp
+3. Signal Processing on ramp
+
+### Achieved
+1. Conclusion on research
+2. 50% Signal Processing on ramp
+3. 29% Image Processing on ramp
 
 ## 8. Amit Kumar
 ### Target
