@@ -30,14 +30,21 @@
 
 ## Team info:
 
-| Name             |PS No     | Individual Project                               | Collabarative implementation | Collabarator     |                          
-| ---------------- | :------: | ------------------------------------------------ | ---------------------------- | ---------------- | 
-| Yogesh .S.V      | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |                                 
+| Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |                          
+| - | - | - | - | - | 
+| Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |                                 
+| P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      |
+| Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      |
+| Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      |
+| Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      |
+
 
 ## Repo contribution: ##
-
 | Name             |PS No     |                Individual Task              |       Collabarator     | Reviewed by                       |  
-| ---------------- | :------: | ------------------------------------------- | ---------------------- | --------------------------------- | 
+| - | -| - | - | - | 
+
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
