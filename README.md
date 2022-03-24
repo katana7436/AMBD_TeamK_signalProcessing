@@ -37,7 +37,7 @@
 | Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      |
 | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      |
 | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      |
-
+| Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      |
 
 ## Repo contribution: ##
 | Name             |PS No     |                Individual Task              |       Collabarator     | Reviewed by                       |  
