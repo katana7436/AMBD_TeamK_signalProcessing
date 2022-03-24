@@ -30,11 +30,11 @@
 
 ## Documentation contribution: ##
 
-| Name             |PS No     | Individual Task                                  | Collabarative task           | Collabarator     | Reviewed by                         |  
-| ---------------- | :------: | ------------------------------------------------ | ---------------------------- | ---------------- | -----------------------------|
+| Name             |PS No     | Individual Project                               | Collabarative implementation | Collabarator     |                          
+| ---------------- | :------: | ------------------------------------------------ | ---------------------------- | ---------------- | 
+| Yogesh .S.V      | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |                                 
 
-
-## Software contribution: ##
+## Repo contribution: ##
 
 | Name             |PS No     |                Individual Task              |       Collabarator     | Reviewed by                       |  
 | ---------------- | :------: | ------------------------------------------- | ---------------------- | --------------------------------- | 
