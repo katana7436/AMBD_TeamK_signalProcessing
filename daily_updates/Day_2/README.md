@@ -1,4 +1,4 @@
-## Day 2 agenda:
+## Day 2 (Fri - 25/03/2022):
 ### Team agenda for the day 2.
 
 ## 1. D.Sudheera
