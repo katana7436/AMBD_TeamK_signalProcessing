@@ -1,6 +1,5 @@
-Day 3 agenda:
-
-All add your agendas down.
+## Day 3 agenda:
+### Team agenda for the day
 
 ## 1. D.Sudheera
 
