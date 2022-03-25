@@ -56,7 +56,7 @@ Achieved :
 1. gathering and preparing the requirement ready
 2. Coding part
 
-### Archieved
+### Achieved
 1. gathered and prepared the requirements
 2.  In process
 
@@ -68,6 +68,6 @@ Achieved :
 ### Target
 1. gathering requirement(High level and low level Requirements)
 2. Started with the coding part
-### Archieved
+### Achieved
 1. gathered and prepared the requirements
 2. have to be done
