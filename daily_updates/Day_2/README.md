@@ -2,6 +2,15 @@
 ### Team agenda for the day 2.
 
 ## 1. D.Sudheera
+Target : 
+1. Reassembling all requirements & Preparing Model accordingly
+2. Finishing with coding on mathworks
+3. Completing image processing on ramp 
+Achieved :
+1. Selected features
+2. Code 70%
+3. Image processing 60% onramp
+
 
 ## 2. U.Goutam
 Target : 
