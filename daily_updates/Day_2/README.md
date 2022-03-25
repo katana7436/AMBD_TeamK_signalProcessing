@@ -35,6 +35,7 @@ Target:
 
 Achieved: 
 * Basic model under progress
+* Specialization onramp completed
 
 ## 4. Aman Sharma
 
