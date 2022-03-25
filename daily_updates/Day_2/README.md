@@ -23,6 +23,13 @@ Achieved:
 ## 6. Guru Teja Reddy
 
 ## 7. Raja Sekhar 
+Target : 
+1. Reassembling all requirements & Preparing Model accordingly
+2. Finishing with coding on mathworks
+
+Achieved :
+1.
+2.
 
 ## 8. Amit Kumar
 
