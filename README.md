@@ -2,9 +2,8 @@
 ## Ambd_TeamK_signalProcessing
 
 #
-## Introduction: 
-
-
+## Introduction: ##
+#### Model-based design is a mathematical and visual method of addressing problems associated with designing complex control, signal processing and communication systems. In this repo group k, a team of 11, shall maintain their individual unique projects based on the either image processing or wireless communication under signal processing domain. These projects are modeled using the MatLab and simulink. The distinct projects details and the main repo folder structure is explained down.  ####
 -------------------------------------------------------------------
 ## Folder structure ##
 | Folder | Description|
