@@ -1,4 +1,4 @@
-## Day 3 agenda:
+## Day 3 agenda(Sat - 26/03/2022):
 ### Team agenda for the day
 
 ## 1. D.Sudheera
