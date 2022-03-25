@@ -38,7 +38,7 @@
 | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      | |
 | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
 | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
-| Aman Sharma       | 99007484 | Background Remover                               |   No                         |  Individual      | |
+| Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
