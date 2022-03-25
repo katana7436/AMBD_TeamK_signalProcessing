@@ -1,6 +1,5 @@
-Day 2 agenda:
-
-All add your agendas down.
+## Day 2 agenda:
+### Team agenda for the day 2.
 
 ## 1. D.Sudheera
 
