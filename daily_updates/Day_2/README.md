@@ -86,6 +86,12 @@ Achieved :
 ## 9. Anushi Chauhan 
 
 ## 10. Rajeev Ranjan
+### Target
+1. Wireless Communication Onramp.
+2. Gathering and Preparing the requirements.
+### Achived
+1. Wireless Communication Onramp(100%)
+2. Gathering and Preparing the requirements(FM Transmitter & FM Receiver)
 
 ## 11. Riya Kumari
 ### Target
