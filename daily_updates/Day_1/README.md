@@ -10,7 +10,7 @@ All add your agendas down.
  
  ### Achieved:
  1. finding the right toolbox
- 2. Wireless onramp -50%
+ 2. Image Processing onramp -50%
  3. In process
  
 ## 2. U.Goutham
