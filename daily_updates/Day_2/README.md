@@ -38,6 +38,14 @@ Achieved:
 * Specialization onramp completed
 
 ## 4. Aman Sharma
+Target : 
+* Reaserching all requirements 
+* Finishing with coding on mathworks
+* Completing image processing on ramp 
+
+Achieved :
+* Matlab Code 100%
+* Image processing 60% onramp
 
 ## 5. Sakshi Sinha 
 Yesterday's task Pending :
