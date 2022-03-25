@@ -4,6 +4,14 @@
 ## 1. D.Sudheera
 
 ## 2. U.Goutam
+Target : 
+1. Features concluding
+2. Subsystem building
+3. Completing signal processing on ramp 
+Achieved :
+1. Selected features
+2. Blocks Done
+3. signal processing 40% onramp
 
 ## 3. Yogesh S.V (99007456)
 Yesterday's task Pending :
@@ -21,15 +29,24 @@ Achieved:
 ## 5. Sakshi Sinha 
 
 ## 6. Guru Teja Reddy
+Target : 
+1. Reassembling all requirements & Preparing Model accordingly
+2. Finishing with coding on mathworks
+3. Completing image processing on ramp 
+Achieved :
+1. Selected features
+2. Code 90%
+3. Image processing 60% onramp
 
 ## 7. Raja Sekhar 
 Target : 
 1. Reassembling all requirements & Preparing Model accordingly
 2. Finishing with coding on mathworks
-
+3.Completing image processing on ramp 
 Achieved :
-1.
-2.
+1. Selected Requirements
+2. Code 75%
+3. Image processing 70% onramp
 
 ## 8. Amit Kumar
 
