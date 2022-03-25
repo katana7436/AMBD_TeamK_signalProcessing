@@ -8,6 +8,7 @@ Target :
 1. Features concluding
 2. Subsystem building
 3. Completing signal processing on ramp 
+
 Achieved :
 1. Selected features
 2. Blocks Done
@@ -33,6 +34,7 @@ Target :
 1. Reassembling all requirements & Preparing Model accordingly
 2. Finishing with coding on mathworks
 3. Completing image processing on ramp 
+
 Achieved :
 1. Selected features
 2. Code 90%
@@ -42,11 +44,12 @@ Achieved :
 Target : 
 1. Reassembling all requirements & Preparing Model accordingly
 2. Finishing with coding on mathworks
-3.Completing image processing on ramp 
+3. Completing image processing on ramp
+
 Achieved :
 1. Selected Requirements
 2. Code 75%
-3. Image processing 70% onramp
+3.  Image processing 70% onramp
 
 ## 8. Amit Kumar
 
