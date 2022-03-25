@@ -36,7 +36,9 @@
 | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
 | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
 | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      | |
-| Rajeev Ranjan     | 99007927 | Wireless Communication                           |  Yes                         | Yogesh .S.V      | |
+| Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
+| Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
+| Aman Sharma       | 99007484 | Background Remover                               |   No                         |  Individual      | |
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
@@ -45,6 +47,8 @@
 |Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
 | Team documentation readme file intgeration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
 | Main repo readme maintenance | 99007456 | Yogesh S.V | 
+| Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
+| Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Good
