@@ -38,6 +38,19 @@ Achieved:
 ## 4. Aman Sharma
 
 ## 5. Sakshi Sinha 
+Yesterday's task Pending :
+1. Getting requirements
+2. Basic model
+
+Target: 
+1. Build basic model vesion1.
+2. Git docs update
+
+Achieved: 
+1. Selected Requirements
+2. Code 65%
+3. Image processing 70% onramp
+
 
 ## 6. Guru Teja Reddy
 Target : 
