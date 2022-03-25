@@ -36,7 +36,7 @@
 | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
 | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
 | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      | |
-
+| Rajeev Ranjan     | 99007927 | Wireless Communication                           |  Yes                         | Yogesh .S.V      | |
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
