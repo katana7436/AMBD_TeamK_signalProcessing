@@ -1,6 +1,5 @@
 ## Day 1 (Thu - 24/03/2022) :
-
-All add your agendas down.
+### Team agenda for the day
 
 ## 1. D.Sudheera
 ### Target :
