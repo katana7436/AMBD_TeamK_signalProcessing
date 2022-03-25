@@ -30,22 +30,22 @@
 
 ## Team info:
 
-| Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |                          
-| - | - | - | - | - | 
-| Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |                                 
-| P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      |
-| Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      |
-| Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      |
-| Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      |
-| Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      |
+| Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |                 
+| ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
+| Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                           
+| P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
+| Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      | |
+| Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
+| Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
+| Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      | |
 
-## Repo contribution: ##
-| Name             |PS No     |                Individual Task              |       Collabarator     | Reviewed by                       |  
-| - | -| - | - | - | 
-
-
-
-
+## Contribution to the team: ##
+|           Task          |PS No     |                Contributor             |       
+| ----------------------- | -------- | ------------------------------------------- | 
+| Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
+|Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
+| Team documentation readme file intgeration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
+| Main repo readme maintenance | 99007456 | Yogesh S.V | 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
