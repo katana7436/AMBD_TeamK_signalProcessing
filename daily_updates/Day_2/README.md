@@ -7,6 +7,15 @@ All add your agendas down.
 ## 2. U.Goutam
 
 ## 3. Yogesh S.V (99007456)
+Yesterday's task Pending :
+* Getting requirements
+* Basic model
+
+Target: 
+* Build basic model vesion1.
+* Git docs update
+
+Achieved: 
 
 ## 4. Aman Sharma
 
