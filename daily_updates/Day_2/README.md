@@ -52,6 +52,13 @@ Achieved :
 3.  Image processing 70% onramp
 
 ## 8. Amit Kumar
+### Target
+1. gathering and preparing the requirement ready
+2. Coding part
+
+### Archieved
+1. gathered and prepared the requirements
+2.  In process
 
 ## 9. Anushi Chauhan 
 
