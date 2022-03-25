@@ -34,6 +34,7 @@ Target:
 * Git docs update
 
 Achieved: 
+* Basic model under progress
 
 ## 4. Aman Sharma
 
