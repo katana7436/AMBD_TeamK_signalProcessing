@@ -65,3 +65,9 @@ Achieved :
 ## 10. Rajeev Ranjan
 
 ## 11. Riya Kumari
+### Target
+1. gathering requirement(High level and low level Requirements)
+2. Started with the coding part
+### Archieved
+1.gathered and prepared the requirements
+2. have to be done
