@@ -86,7 +86,12 @@ Achieved :
 2.  In process
 
 ## 9. Anushi Chauhan 
-
+### Target
+1. Code
+2. Image processing omramp
+### Achieved
+1. In process
+2. 80%
 ## 10. Rajeev Ranjan
 ### Target
 1. Wireless Communication Onramp.
