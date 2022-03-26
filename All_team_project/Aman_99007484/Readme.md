@@ -6,7 +6,7 @@
 
 # Requirements
 
-# High Level Requirements
+## High Level Requirements
 | Id          |  High Level Requirements  |    status  |
 | :--        | :--          |   :--     |
 | HLR1        | The system should take only images     | Implemented |
@@ -14,7 +14,7 @@
 | HLR3        | The system should mask the subject out | Implemented |
 | HLR4        | The system should print the image with changed background | Implemented |
 
-# Low Level Requirements
+## Low Level Requirements
 | Id          | Low Level Requirements for HLR1   |    status  |
 | :--        | :--          |   :--     |
 | LLR1.1      | The inputs can take png    | Implemented |
