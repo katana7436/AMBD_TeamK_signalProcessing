@@ -52,5 +52,12 @@ Achieved :
 ## 9. Anushi Chauhan 
 
 ## 10. Rajeev Ranjan
+Target :
+* Complete Simulink of FM Modulation / Demodulation
+* Complete documentation in github
+* complete test cases.
+
+Achived :
+* Matlab working model
 
 ## 11. Riya Kumari
