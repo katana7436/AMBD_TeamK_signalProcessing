@@ -34,7 +34,7 @@ The main function is used to compare the faces of 5 persons with different poses
  It is implemented with the help of MATLAB software.
  # SWOT ANALYSIS
  ![image](https://user-images.githubusercontent.com/87614111/155712022-4b22d919-09df-451d-b3fc-5bac8dcf3e5d.png)
- # STENGTH
+ # STRENGTH
  * It is used for recognition of face to unlock device 
  * Can be used in aiports
  * Can help us to improve safety level
