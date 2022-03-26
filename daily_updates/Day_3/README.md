@@ -7,11 +7,11 @@
 
 ## 3. Yogesh S.V (99007456)
 Target :
-Basic model 
-Git hub documentation
+* Basic model 
+* Git hub documentation
 
 Achieved:
-Basic model redesign V2
+* Basic model redesign V2
 
 ## 4. Aman Sharma
 Target : 
