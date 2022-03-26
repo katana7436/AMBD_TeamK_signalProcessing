@@ -50,6 +50,9 @@
 | Main repo readme maintenance | 99007456 | Yogesh S.V | 
 | Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
 | Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
+| Helped Sudheera Dasari in image processing | 99007925 | Amit Kumar |
+| Helped Riya Kumari in coding | 99007929 | Amit Kumar |
+| Helped and Collaborated with Anushi Chauhan in Project| 99007451 | Amit Kumar |
 | Helped Sakshi Sinha in model design | 99007484  | Aman Sharma |
 | Helped Sudheera Dasari in image processing | 99007925 | Anushi Chauhan |
 | Helped Anushi Chauhan in Simulink Model | 99007451 | Sudheera Dasari |
