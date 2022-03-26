@@ -46,7 +46,7 @@
 | Repo creation           | 99007484 | Aman Sharma |
 | Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
 |Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
-| Team documentation readme file intgeration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
+| Team documentation readme file integration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
 | Main repo readme maintenance | 99007456 | Yogesh S.V | 
 | Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
 | Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
