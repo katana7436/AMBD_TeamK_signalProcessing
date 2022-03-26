@@ -13,4 +13,5 @@
 # Subsystem Block
 ![subsytem](https://user-images.githubusercontent.com/87614111/160246449-fe49262a-2e32-462e-9704-43d44b7ef684.JPG)
 # Output
-![output mat](https://user-images.githubusercontent.com/87614111/160246455-e14d5222-18ef-4e96-b310-79d704b2e13c.JPG)
+
+![output mat1](https://user-images.githubusercontent.com/87614111/160251325-ab13677f-2b11-4e53-b333-a727a27e8f3b.JPG)
