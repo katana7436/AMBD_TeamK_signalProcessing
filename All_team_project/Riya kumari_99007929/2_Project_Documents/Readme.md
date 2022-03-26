@@ -6,6 +6,10 @@ e.g. Parliament, Supreme Court etc. The developed system first detects the vehic
 The resulting data is then used to compare with the records on a database so as to come up with the specific information like the vehicle’s owner, place of registration, address, etc. The system is implemented and simulated in MATLAB, and it performance is tested on real image. 
 It is observed from the experiment that the developed system successfully detects and recognize the vehicle number plate on real images.
 ## Features
+To identify the number plate in the input image nd recognize the vehicle number plate on real images.
+To detect the number plate.
+
+
 ## Process
 License Plate Recognition is an image processing technology which uses number (license) plate to identify the vehicle.The objective is to design an efficient automatic authorized vehicle identification system by using the vehicle number plate.The developed system first detects the vehicle and then captures the vehicle image. Vehicle number plate region is extracted using the image segmentation in an image. Optical character recognition technique is used for the character recognition.The resulting data is then used to compare with the records on a database so as to come up with the specific information like the vehicle owner, place of registration, and address.
 
@@ -62,8 +66,7 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 | HR01 | Loading Different Images of number plates  |  |
 | HR02 | Writing the code |  |
 | HR03 | Loading the database with images |  |
-| HR04 |  | |
-| HR05 | |  |
+
 
 
 ## Low Level Requirements 
