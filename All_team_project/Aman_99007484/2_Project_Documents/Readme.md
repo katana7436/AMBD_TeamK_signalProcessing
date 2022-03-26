@@ -48,5 +48,6 @@ In the market, better versions of this feature are used by using AI.
 
 
 ## Matlab model
-![Screenshot (18)](https://user-images.githubusercontent.com/64160088/160253451-d56a35ba-a63e-4a8a-ad8e-69a148c52e66.png)
+
 ![Screenshot (17)](https://user-images.githubusercontent.com/64160088/160253452-3aae7cd3-cb40-4bbb-a015-58bd6baf09d2.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/64160088/160253451-d56a35ba-a63e-4a8a-ad8e-69a148c52e66.png)
