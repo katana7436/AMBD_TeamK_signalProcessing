@@ -48,3 +48,6 @@ The subject selection and masking could have been finer.
 User can change background without any editing software just by including some add ons in Matlab.
 ### Threats
 In the market, better versions of this feature are used by using AI.
+
+## Flow Chart
+![flow chart](https://user-images.githubusercontent.com/64160088/160237858-a6365bff-cc67-4570-bfc8-5e6da5da21ab.png)
