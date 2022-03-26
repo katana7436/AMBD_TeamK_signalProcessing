@@ -7,7 +7,7 @@ The resulting data is then used to compare with the records on a database so as 
 It is observed from the experiment that the developed system successfully detects and recognize the vehicle number plate on real images.
 ## Features
 To identify the number plate in the input image nd recognize the vehicle number plate on real images.
-To detect the number plate.
+ To detect the number plate.
 
 
 ## Process
@@ -61,24 +61,20 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 
 
 ## High Level Requirements
-| ID | Description | Status |
-|--|--|--|
-| HR01 | Loading Different Images of number plates  |  |
-| HR02 | Writing the code |  |
-| HR03 | Loading the database with images |  |
+| ID | Description 
+|--|--|
+| HR01 | Loading Different Images of number plates  |
+| HR02 | Writing the code | 
+| HR03 | Loading the database with images | 
 
 
 
 ## Low Level Requirements 
-
-| ID | Description | HR ID | Status |
-|--|--|--|--|
-| LR01 | Giving images as input | HR01|  |
-| LR02 | Checking whether getting the output  | HR01|  |
- LR03 | Taking the number plate images as input for subsystem   | HR03|  |
-| LR04 |  | HR04|  |
-| LR05 | | HR02|  |
-| LR06 |  | HR05|  |
+HR ID | Description |
+|--|--|
+| LR01 | Giving images as input |  
+| LR02 | Checking the output accordingly | 
+ LR03 | checking the number plate images as input for subsystem   |
 
 
 # Applications
@@ -89,4 +85,15 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 
 # Flowchart
 ![flowchart](https://user-images.githubusercontent.com/98817564/160232187-893ad692-6405-44e5-a137-172bf2d45d3a.png)
+
+# Test Plan
+| SR NO. | Test | Expected Output| Output| Status |
+|--|--|--|--|--|
+| 1 | ==1 |KTP-295 | KTP-295 | Passed |
+| 2 | ==2  | HQR-374 | HQR-374  | Passed |
+| 3 |  ==3  |AKH-343 | AKH-343 |Passed |
+| 4| ==4 | AXZ-016 | AXZ-016 |Passed |
+| 5 | ==5 | AWR-310 |AWR-310 | Passed |
+| 6 |==6 |AFR-420 | AFR-420| Passed |
+
 
