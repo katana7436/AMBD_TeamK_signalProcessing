@@ -55,6 +55,36 @@ The number plate Detection can be Used in many Field with the help of it we can 
 ## How
 Vehicle Number Plate Detection aims at detection of the License Plate present on a vehicle and then extracting the contents of that License Plate.
 
-# High level Requirements
-# Low level Requirements
+
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HR01   |  |
+| HR02 | |  |
+| HR03 |  |  |
+| HR04 |  | |
+| HR05 | |  |
+
+
+## Low Level Requirements 
+
+| ID | Description | HR ID | Status |
+|--|--|--|--|
+| LR01 | | HR01|  |
+| LR02 |  | HR01|  |
+ LR03 |   | HR03|  |
+| LR04 |  | HR04|  |
+| LR05 | | HR02|  |
+| LR06 |  | HR05|  |
+
+
+# Applications
+- The NPR is used to automatically enter of prepaid members and calculate parking fee for non d members.
+- A gate automatically opens for Il authorized members in a secured area, thus replacing or a assisting the security guard.
+- The car number is registered in the entry or exits to the country and used to monitor the border.
+- The vehicles can be directed to different lanes according to their entry permits. The system reduces the traffic congestions and number of attendants.
+
+# Flowchart
+![flowchart (2)](https://user-images.githubusercontent.com/98817564/160230268-71d1ad1e-34b5-4623-9dca-e398a0835ebf.png)
+
 
