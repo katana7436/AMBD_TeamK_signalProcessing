@@ -1,4 +1,5 @@
 clc
+% By Amit
 [baseFileName, folder] = uigetfile('*.jpg','Select The Image'); 
 fullFileName = fullfile(folder, baseFileName);
 [baseFileName, folder] = uigetfile('*.jpg','Select The Image'); 
@@ -33,7 +34,7 @@ title('Histogram');
 figure();
 
 % Gamma Adjusted Images
-
+% By Anushi 
 S=edge(g,'sobel');
 u=double(S);
 subplot(1,2,1);
