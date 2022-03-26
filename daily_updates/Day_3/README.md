@@ -13,7 +13,15 @@ Achieved :
 * Completed onramp
 
 ## 2. U.Goutam
+Target : 
+* Complete documentation in github
+* Completing with matlab model
+* Finishinng signal processing onramp 
 
+Achieved :
+* Matlab model 
+* Signal processing 100% onramp
+* 80% on git
 ## 3. Yogesh S.V (99007456)
 Target :
 * Basic model 
@@ -44,8 +52,25 @@ Achieved :
 * Image processing 100% onramp
 
 ## 6. Guru Teja Reddy
+Target : 
+* Complete documentation in github
+* Completing with matlab model
+* Finishinng image processing onramp 
 
+Achieved :
+* Matlab model 
+* Image processing 90% onramp
+* 50% on git
 ## 7. Raja Sekhar 
+Target : 
+* Complete documentation in github
+* Completing with matlab model
+* Finishinng image processing onramp 
+
+Achieved :
+* Matlab model 
+* Image processing 90% onramp
+* 50% on git
 
 ## 8. Amit Kumar
  Target :
