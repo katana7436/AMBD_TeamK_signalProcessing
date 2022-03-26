@@ -37,3 +37,14 @@
 | :--        | :--          |   :--     |
 | LLR4.1        | The system should take both the processed images   |  Implemented|
 | LLR4.2        | The system should blend the images using multiply |Implemented  |
+
+
+## SWOT Ananlysis
+### Strength
+User can choose the background and this system will change the background by the use of masking the foreground selection.
+### Weakness
+The subject selection and masking could have been finer.
+### Opportunities
+User can change background without any editing software just by including some add ons in Matlab.
+### Threats
+In the market, better versions of this feature are used by using AI.
