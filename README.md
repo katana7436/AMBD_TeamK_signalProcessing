@@ -50,6 +50,7 @@
 | Main repo readme maintenance | 99007456 | Yogesh S.V | 
 | Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
 | Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
+| Helped Sakshi Sinha in model design | 99007484  | Aman Sharma |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Good
