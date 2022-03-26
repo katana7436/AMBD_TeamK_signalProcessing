@@ -39,6 +39,7 @@
 | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
 | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
 | Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
+| Riya Kumari       | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual        |                 |
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
