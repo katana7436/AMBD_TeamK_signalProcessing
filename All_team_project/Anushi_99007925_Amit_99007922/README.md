@@ -2,5 +2,5 @@
 | -- | -- |
 | Documentation | Amit |
 | Code | Anushi & Amit |
-| Test Plan | Amit |
+| Test Plan | Anushi & Amit |
 | Video| Anushi |

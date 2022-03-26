@@ -95,7 +95,7 @@ MATLAB 2021a)
 ##  6.1 High Level Requirements ##
 |ID| Description|
 | :-------: |----------------------------------------------------------------------------------------------------------------------------------|
-| HLR_1 | image is required as input |
+| HLR_1 | Image is required as input |
 | HLR_2 | If input should match with the existing database|
 
 ---------------------------------
@@ -103,6 +103,6 @@ MATLAB 2021a)
 ## 6.2 LOW LEVEL REQUIREMENTS:- ##
 |LLR_ID | Design_consideration | 
 | :-----: | -------------------- | 
-| LLR_1.1 |image is required as input in any supportable format|
+| LLR_1.1 |Image is required as input in any supportable format|
 | LLR_1.2 |Different image is stored in database as different parameters for comparing user input images |  
 
