@@ -85,6 +85,5 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 - The vehicles can be directed to different lanes according to their entry permits. The system reduces the traffic congestions and number of attendants.
 
 # Flowchart
-![flowchart (2)](https://user-images.githubusercontent.com/98817564/160230268-71d1ad1e-34b5-4623-9dca-e398a0835ebf.png)
-
+![flowchart](https://user-images.githubusercontent.com/98817564/160232187-893ad692-6405-44e5-a137-172bf2d45d3a.png)
 
