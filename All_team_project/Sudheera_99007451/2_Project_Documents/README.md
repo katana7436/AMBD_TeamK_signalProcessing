@@ -72,3 +72,9 @@ The main function is used to compare the faces of 5 persons with different poses
 # Flow Chart
 
 ![face](https://user-images.githubusercontent.com/87614111/160230149-8379c470-e5a5-424b-88f3-c34beff8c887.jpg)
+
+
+
+![face 1 (1)](https://user-images.githubusercontent.com/87614111/160231944-c745394c-6e28-45a8-9ea4-a668c34625b4.jpg)
+
+
