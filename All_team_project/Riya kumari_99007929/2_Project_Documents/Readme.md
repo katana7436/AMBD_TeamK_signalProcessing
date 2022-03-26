@@ -55,7 +55,7 @@ The number plate Detection can be Used in many Field with the help of it we can 
 ## How
 Vehicle Number Plate Detection aims at detection of the License Plate present on a vehicle and then extracting the contents of that License Plate.
 
-# High level Requirements
+
 ## High Level Requirements
 | ID | Description | Status |
 |--|--|--|
