@@ -15,10 +15,18 @@ Target :
 
 Achieved :
 * Matlab model working
-* Image processing 60% onramp
+* Image processing 100% onramp
 
 
 ## 5. Sakshi Sinha 
+Target : 
+* Complete documentation in github
+* Work on Flow chart
+* Completing image processing onramp 
+
+Achieved :
+* Matlab model working
+* Image processing 100% onramp
 
 ## 6. Guru Teja Reddy
 
