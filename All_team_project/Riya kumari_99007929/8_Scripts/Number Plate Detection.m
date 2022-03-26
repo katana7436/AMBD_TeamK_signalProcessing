@@ -1,18 +1,16 @@
 function numberPlateExtraction
-%NUMBERPLATEEXTRACTION extracts the characters from the input number plate image.
 
-f=imread('input5.jpg'); % Reading the number plate image.
+f=imread('input5.jpg');
 
-f=imresize(f,[400 NaN]); % Resizing the image keeping aspect ratio same.
+f=imresize(f,[400 NaN]);
 
-g=rgb2gray(f); % Converting the RGB (color) image to gray (intensity).
+g=rgb2gray(f);
 
-g=medfilt2(g,[3 3]); % Median filtering to remove noise.
+g=medfilt2(g,[3 3]); 
 
-se=strel('disk',1); % Structural element (disk of radius 1) for morphological processing.
+se=strel('disk',1); 
 
-gi=imdilate(g,se); % Dilating the gray image with the structural element.
-
+gi=imdilate(g,se); 
 ge=imerode(g,se);
 gdiff=imsubtract(gi,ge); 
 gdiff=mat2gray(gdiff); 
