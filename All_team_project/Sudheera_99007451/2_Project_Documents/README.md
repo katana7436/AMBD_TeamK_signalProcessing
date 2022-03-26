@@ -68,3 +68,7 @@ The main function is used to compare the faces of 5 persons with different poses
 | LLR_3 | Using ADD gate and switch for logic |
 | LLR_4 | If true it shows same picture |
 | LLR_5 | If False it shows different picture |
+
+# Flow Chart
+
+![face](https://user-images.githubusercontent.com/87614111/160230149-8379c470-e5a5-424b-88f3-c34beff8c887.jpg)
