@@ -86,3 +86,12 @@ Achived :
 * Matlab working model
 
 ## 11. Riya Kumari
+Target :
+* Completing requirements
+* Working on matlab model
+* Completing Compliance
+*  Completing the Test Plan
+Achieved :
+* Done with requirements
+* Completed onramp
+* Done with Test plan
