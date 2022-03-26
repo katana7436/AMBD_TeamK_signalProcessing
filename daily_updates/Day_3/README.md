@@ -48,6 +48,22 @@ Achieved :
 ## 7. Raja Sekhar 
 
 ## 8. Amit Kumar
+ *  Target :
+
+    Completing requirements
+    Completing Image processing Onramp
+    Working on matlab Code
+    Completing Compliance
+    Completing Test Plan
+
+Achieved :
+
+    Done with the requirements
+    Done with the Image processing onramp
+    Done with the matlab Code
+    Done with the Compliance
+    Done with the Test Plan
+
 
 ## 9. Anushi Chauhan 
 
