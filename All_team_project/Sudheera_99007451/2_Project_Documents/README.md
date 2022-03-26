@@ -14,7 +14,8 @@ defined by a gradient map, which is made up of an array of surface normals.
  Two problems in face recognition are
  1. The illumination problem: In this ere the same face appears directly due to the change in lighting,causing systems based on comparing images to misclassify the identity of the input image.This has been experimentally observed in  with a dataset of 5 individuals.
 
-2. The pose proble : In this the same face appears differently due to changes in viewing condition.The pose problem has been divided into two categories 1) the simple case with small rotation angles.2)the most commonly addressed case when there are a set of training image pairs (frontal and rotated images).Here in my project I am doing pose proble.As I am using pose proble I am breifing about how to solve pose proble
+2. The pose proble : In this the same face appears differently due to changes in viewing condition.The pose problem has been divided into two categories 1) the simple case with small rotation angles.2)the most commonly addressed case when there are a set of training image pairs (frontal and rotated images).Here in my project I am doing pose proble.As I am using pose proble I am breifing about how to solve pose proble.
+
  Solving the pose proble
 Researchers have proposed various methods to handle the rotation problem.Basically they can be divided into three class.1) multiple images based methods
 when multiple images per person are available. 2) hybrid methods when multiple training images are available during training but only one database image per person is available during recognition. and 3)single image shape based methods when no training is carried out.In my project I am using 5 poersons with different poses,comparing and matching.
