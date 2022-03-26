@@ -8,6 +8,15 @@
 ## 3. Yogesh S.V (99007456)
 
 ## 4. Aman Sharma
+Target : 
+* Reaserching all requirements 
+* Work on Flow chart
+* Completing image processing on ramp 
+
+Achieved :
+* Matlab model working
+* Image processing 60% onramp
+
 
 ## 5. Sakshi Sinha 
 
