@@ -42,3 +42,19 @@ Coupled with the lack of manned surveillance, bad weather or any kind of hindran
 ## Threats
 - There should be camera with high resolution.
 - Due to compatitors ,the product can supressed.
+
+# 4W's 1H
+## What
+Vehicle Number Plate Detection aims at detection of the License Plate present on a vehicle and then extracting the contents of that License Plate.
+## where
+Large number of vehicles around us in daily life creates disturbances such as heavy traffic, stealing of vehicles at the places like toll plazas, parking areas, heavy traffic roads. Management of vehicles transportation is tough and time consuming task if it is completely done manually and which results in huge errors and faults. Therefore it is necessary to develop automatic license plate recognition system to solve the problems discussed above which will automatically recognize.
+## when
+Once our detector is loaded, we can apply it to the grayscale image to detect the number plates using the detectMultiScale function. The function returns a list containing the bounding boxes of the detected number plates on the image.
+## who
+The number plate Detection can be Used in many Field with the help of it we can trace Vehicle, Traffic Monitoring, Payment on tolls on Highway.
+## How
+Vehicle Number Plate Detection aims at detection of the License Plate present on a vehicle and then extracting the contents of that License Plate.
+
+# High level Requirements
+# Low level Requirements
+
