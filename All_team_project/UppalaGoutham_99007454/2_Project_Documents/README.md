@@ -34,7 +34,7 @@
          • It is used in tape recorder, CD players, VCRs, DVD players, etc.
          • It can use to mimic voice or in talking toys for children.
          
-# Block Diagram:
+# Flow Chart:
 ![Block Diagram](https://user-images.githubusercontent.com/98812442/160230337-31f398b9-8fdb-4f56-bd5d-ea68df0b58d7.png)
 
 
@@ -64,9 +64,9 @@ This type of applications can be used when we need to compare two audio signals 
 ## Who :
 It is useful for customers or owners.
 ## Where:
-It is used mainly in cars.
+It is used mainly by movie makers,military etc.
 ## How:
-It is useful for lock and unlock the door by pressing the button on remote
+It is implemented with the help of MATLAB software
 
          
       
