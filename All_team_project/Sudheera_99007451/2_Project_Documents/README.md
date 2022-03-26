@@ -49,7 +49,7 @@ The main function is used to compare the faces of 5 persons with different poses
  * Storage of data can be problemetic.
  
  
- # OPPUNITIES
+ # OPPORTUNITIES
  
 *  Adoption of the cloud based technology
 *  Emerging applications of Facial recognition technology
