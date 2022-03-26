@@ -6,6 +6,10 @@ e.g. Parliament, Supreme Court etc. The developed system first detects the vehic
 The resulting data is then used to compare with the records on a database so as to come up with the specific information like the vehicle’s owner, place of registration, address, etc. The system is implemented and simulated in MATLAB, and it performance is tested on real image. 
 It is observed from the experiment that the developed system successfully detects and recognize the vehicle number plate on real images.
 ## Features
+To identify the number plate in the input image nd recognize the vehicle number plate on real images.
+To detect the number plate.
+
+
 ## Process
 License Plate Recognition is an image processing technology which uses number (license) plate to identify the vehicle.The objective is to design an efficient automatic authorized vehicle identification system by using the vehicle number plate.The developed system first detects the vehicle and then captures the vehicle image. Vehicle number plate region is extracted using the image segmentation in an image. Optical character recognition technique is used for the character recognition.The resulting data is then used to compare with the records on a database so as to come up with the specific information like the vehicle owner, place of registration, and address.
 
@@ -59,20 +63,19 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 ## High Level Requirements
 | ID | Description | Status |
 |--|--|--|
-| HR01   |  |
-| HR02 | |  |
-| HR03 |  |  |
-| HR04 |  | |
-| HR05 | |  |
+| HR01 | Loading Different Images of number plates  |  |
+| HR02 | Writing the code |  |
+| HR03 | Loading the database with images |  |
+
 
 
 ## Low Level Requirements 
 
 | ID | Description | HR ID | Status |
 |--|--|--|--|
-| LR01 | | HR01|  |
-| LR02 |  | HR01|  |
- LR03 |   | HR03|  |
+| LR01 | Giving images as input | HR01|  |
+| LR02 | Checking whether getting the output  | HR01|  |
+ LR03 | Taking the number plate images as input for subsystem   | HR03|  |
 | LR04 |  | HR04|  |
 | LR05 | | HR02|  |
 | LR06 |  | HR05|  |
@@ -85,6 +88,5 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 - The vehicles can be directed to different lanes according to their entry permits. The system reduces the traffic congestions and number of attendants.
 
 # Flowchart
-![flowchart (2)](https://user-images.githubusercontent.com/98817564/160230268-71d1ad1e-34b5-4623-9dca-e398a0835ebf.png)
-
+![flowchart](https://user-images.githubusercontent.com/98817564/160232187-893ad692-6405-44e5-a137-172bf2d45d3a.png)
 

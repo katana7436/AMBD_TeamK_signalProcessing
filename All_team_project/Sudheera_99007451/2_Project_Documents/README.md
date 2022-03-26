@@ -78,3 +78,6 @@ The main function is used to compare the faces of 5 persons with different poses
 ![face 1 (1)](https://user-images.githubusercontent.com/87614111/160231944-c745394c-6e28-45a8-9ea4-a668c34625b4.jpg)
 
 
+# Applications
+
+
