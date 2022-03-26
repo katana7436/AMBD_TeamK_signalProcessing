@@ -65,8 +65,8 @@ The main function is used to compare the faces of 5 persons with different poses
 |ID| Description|
 | :-------: |----------------------------------------------------------------------------------------------------------------------------------|
 | LLR_1 |  seeing whether the faces are matching |
-| LLR_2 | Taking pictures as 1 & 0 for subsystem |
-| LLR_3 | Using ADD gate and switch for logic |
+| LLR_2 | Loading images for subsystem |
+| LLR_3 | Using  switch for logic |
 | LLR_4 | If true it shows same picture |
 | LLR_5 | If False it shows different picture |
 
