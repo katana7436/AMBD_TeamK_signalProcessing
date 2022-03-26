@@ -28,3 +28,10 @@ The availability of an automatic system has reduced the importance of manned sur
 This may lead to lapse in manned security.
 - Bad Weather or Hindrances -
 Coupled with the lack of manned surveillance, bad weather or any kind of hindrances and obstructions can make automatic number plate recognition systems ineffective. In such cases, the security measures may go kaput.
+
+## Opportunities
+- Automative application
+-  This system can be use for parking management if the vehicle is placed at no parking area then it can detect the number plate to send the warning to the ownwer.
+## Threats
+- There should be camera with high resolution.
+- Due to compatitors ,the product can supressed.
