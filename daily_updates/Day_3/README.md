@@ -2,6 +2,13 @@
 ### Team agenda for the day
 
 ## 1. D.Sudheera
+Target : 
+* Completing requirements
+* Completing Image processing Onramp
+* Working on matlab model
+Achieved :
+* Requirements completed
+* completed matlab model
 
 ## 2. U.Goutam
 
