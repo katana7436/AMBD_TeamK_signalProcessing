@@ -1,4 +1,3 @@
-## This folder contains the integerated project documentation. Individual project documentation can be found in the individual project folder under the folder All_team_project. 
 
 # Table of content : #
 
@@ -54,14 +53,7 @@
     extremely low. Even genetically identical individuals have completely
     independent iris textures. An iris scan is similar to taking a photograph and can
     be performed from about 10 cm to a few meters away.
-    
--------------------------------------------------------
-| Input command                      |                       Output                                                   |
-| ---------------------------------- | -------------------------------------------------------------------------------|
-| Blue switch pressed once           |   |
-| Blue switch pressed twice          |   |
-| Blue switch pressed thrice         |   |
-| Blue switch pressed for four times |   |
+
 
 ## 2.2 PROBLEM SOLVING APPROACH
 Firstly we have stored the images in matlab database and then on user input we are trying to match the user's input with the one which is stored in databses.
@@ -103,32 +95,14 @@ MATLAB 2021a)
 ##  6.1 High Level Requirements ##
 |ID| Description|
 | :-------: |----------------------------------------------------------------------------------------------------------------------------------|
-| HLR_1 |   |
-| HLR_2 |  |
-| HLR_3 |  |
-| HLR_4 | |
+| HLR_1 | image is required as input |
+| HLR_2 | If input should match with the existing database|
+
 ---------------------------------
 
 ## 6.2 LOW LEVEL REQUIREMENTS:- ##
-| HLR_ID |LLR_ID | Design_consideration | 
-| :-----: | :-----: | -------------------- | 
-| HLR_1 | LLR_1.1 |  |
-| | LLR_1.2 | |  
-| | LLR_1.3 | | 
-| | LLR_1.4 | | 
-| | LLR_1.5 |  | 
-| HLR_2 | LLR_2.1 | |
-| | LLR_2.2 | | 
-| | LLR_2.3 | | 
-| | LLR_2.4 | |
-| | LLR_2.5 | | 
-| HLR_3 | LLR_3.1 |  |
-| | LLR_3.2 |  |  
-| | LLR_3.3 | | 
-| | LLR_3.4 | | 
-| | LLR_3.5 | | 
-| HLR_4 | LLR_4.1 ||
-| | LLR_4.2 ||  
-| | LLR_4.3 || 
-| | LLR_4.4 | | 
-| | LLR_4.5 | | 
+|LLR_ID | Design_consideration | 
+| :-----: | -------------------- | 
+| LLR_1.1 |image is required as input in any supportable format|
+| LLR_1.2 |Different image is stored in database as different parameters for comparing user input images |  
+
