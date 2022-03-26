@@ -1,18 +1,29 @@
 ## Day 1 (Thu - 24/03/2022) :
-
-All add your agendas down.
+### Team agenda for the day
 
 ## 1. D.Sudheera
 ### Target :
  1. Feature selection
  2. finding the right toolbox
  3.Image Processing onramp
-  Achieved:
- 1. finding the right toolbox
- 2. Wireless onramp -50%
- 3.In process
  
-## 2. U.Goutam
+ ### Achieved:
+ 1. finding the right toolbox
+ 2. Image Processing onramp -50%
+ 3. In process
+ 
+## 2. U.Goutham
+### Target :
+ 1. Feature selection
+ 2. finding the right toolbox
+ 3. Getting requirements
+ 4. Basic model
+ 
+ ### Achieved:
+ 1. finding the right toolbox
+ 2. signal onramp -20%
+ 3. In process
+ 4. In Process
 
 ## 3. Yogesh S.V (99007456)
 ### Target :
@@ -21,11 +32,22 @@ All add your agendas down.
  3. Getting requirements
  4. Basic model
  
- Achieved:
+ ### Achieved:
  1. finding the right toolbox
  2. Wireless onramp -30%
 
 ## 4. Aman Sharma
+### Target :
+Original Image
+ 1. Initial masking
+ 2.	Iterations(edge detection for a no. of times)
+ 3.	Enhanced mask
+ 4.	Segmentation mask
+ 5.	Segmentation result
+
+### Achieved : 
+ 1. Image Processing Onramp 25%
+ 2. Approach built
 
 ## 5. Sakshi Sinha 
 ### Target :
@@ -35,33 +57,56 @@ All add your agendas down.
  4. Basic model
  5. Image Signal processing onramp
  
- Achieved:
+### Achieved:
  1. Feature selected
  2. Image signal onramp -48%
 
 ## 6. Guru Teja Reddy
+### Target
+1. Research on project 
+2. Image processing on ramp
+
+### Achieved
+1. Features selection
+3. 60% Image Processing on ramp
 
 ## 7. Raja Sekhar 
+### Target
+1. Research on project 
+2. Image processing on ramp
+3. Signal Processing on ramp
+
+### Achieved
+1. Conclusion on research
+2. 50% Signal Processing on ramp
+3. 29% Image Processing on ramp
 
 ## 8. Amit Kumar
 ### Target
-1.finding the right toolbox
-2.Image Processing onramp
+1. finding the right toolbox
+2. Image Processing onramp
+3. Basic Model
 
 ### Archieved
-1.finding the right toolbox
-2.Image Processing onramp - 80%
-
-
-
+1. finding the right toolbox
+2. Image Processing onramp - 80%
 
 ## 9. Anushi Chauhan 
+### Target
+1. Feature Selection
+2. Logic
+3. Basic Model
+
+### Achieved
+1. Feature Selection
+2. Logic
 
 ## 10. Rajeev Ranjan
 ### Target
 1. Wireless Communication Onramp
 2. Sellecting Correct toolbox
 3. Basic model 
+
 ### Achived
 1. Wireless Communication Onramp
 2. Sellection of right toolbox
@@ -69,9 +114,11 @@ All add your agendas down.
 ## 11. Riya Kumari
 ### Target :
 1. Getting Requirements
-2.Image Processing onramp
+2. Feature selection
+3. Image Processing onramp
+
 ### Achieved
-1.In Process
-2.Image Processing onramp - 40%
+1. In Process
+2. Image Processing onramp - 40%
 
 
