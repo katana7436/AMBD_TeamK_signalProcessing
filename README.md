@@ -2,9 +2,8 @@
 ## Ambd_TeamK_signalProcessing
 
 #
-## Introduction: 
-
-
+## Introduction: ##
+#### Model-based design is a mathematical and visual method of addressing problems associated with designing complex control, signal processing and communication systems. In this repo group k, a team of 11, shall maintain their individual unique projects based on the either image processing or wireless communication under signal processing domain. These projects are modeled using the MatLab and simulink. The distinct projects details and the main repo folder structure is explained down.  ####
 -------------------------------------------------------------------
 ## Folder structure ##
 | Folder | Description|
@@ -23,22 +22,34 @@
 
 
 ---------------------------------------------------------------------------------
-## Contributions:
 <p align="center">
   <img width = 720 height= 300 src="https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/b7a2588d76a611ef5f394f4b72a1f84884c5aa5e/Images/teamwork-quotes.png">
 </p> <br>
 
 ## Team info:
 
-| Name             |PS No     | Individual Project                               | Collabarative implementation | Collabarator     |                          
-| ---------------- | :------: | ------------------------------------------------ | ---------------------------- | ---------------- | 
-| Yogesh .S.V      | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |                                 
-
-## Repo contribution: ##
-
-| Name             |PS No     |                Individual Task              |       Collabarator     | Reviewed by                       |  
-| ---------------- | :------: | ------------------------------------------- | ---------------------- | --------------------------------- | 
-
+| Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |                 
+| ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
+| Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                           
+| P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
+| Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      | |
+| Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
+| Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
+| Anushi Chauhan    | 99007925 | Iris Recognition                                 |   No                         |  Individual      | |
+| Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
+| Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
+| Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
+| Riya Kumari       | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual        |                 |
+## Contribution to the team: ##
+|           Task          |PS No     |                Contributor             |       
+| ----------------------- | -------- | ------------------------------------------- | 
+| Repo creation           | 99007484 | Aman Sharma |
+| Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
+|Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
+| Team documentation readme file intgeration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
+| Main repo readme maintenance | 99007456 | Yogesh S.V | 
+| Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
+| Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+Good
