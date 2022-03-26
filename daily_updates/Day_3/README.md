@@ -66,7 +66,16 @@ Achieved :
 
 
 ## 9. Anushi Chauhan 
-
+Target :
+*   Completing Image processing Onramp
+*   Working on matlab Code
+*   Completing Compliance
+*   Completing Test Plan
+Achieved :
+*   Done with the Image processing onramp
+*   Done with the matlab Code
+*   Done with the Compliance
+*   Done with the Test Plan
 ## 10. Rajeev Ranjan
 Target :
 * Complete Simulink of FM Modulation / Demodulation
