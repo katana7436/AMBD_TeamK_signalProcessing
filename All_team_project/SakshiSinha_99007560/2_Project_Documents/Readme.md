@@ -7,9 +7,8 @@
 | 4. | Where | | 
 | 5. | How | |
 -------------------------------------------------------
-## 4. SWOT Analysis
+## SWOT Analysis
 
-----------------------
 -----------------------------------
 ## 6. Requirements:
 ##  6.1 High Level Requirements ##
@@ -21,7 +20,7 @@
 | HLR_4 | |
 ---------------------------------
 
-## 6.2 LOW LEVEL REQUIREMENTS:- ##
+## LOW LEVEL REQUIREMENTS:-
 | HLR_ID |LLR_ID | Design_consideration | 
 | :-----: | :-----: | -------------------- | 
 | HLR_1 | LLR_1.1 |  |
