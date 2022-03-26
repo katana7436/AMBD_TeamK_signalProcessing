@@ -84,3 +84,7 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 - The car number is registered in the entry or exits to the country and used to monitor the border.
 - The vehicles can be directed to different lanes according to their entry permits. The system reduces the traffic congestions and number of attendants.
 
+# Flowchart
+![flowchart (2)](https://user-images.githubusercontent.com/98817564/160230268-71d1ad1e-34b5-4623-9dca-e398a0835ebf.png)
+
+
