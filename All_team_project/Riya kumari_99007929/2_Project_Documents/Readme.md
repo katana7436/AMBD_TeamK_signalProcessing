@@ -59,9 +59,9 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 ## High Level Requirements
 | ID | Description | Status |
 |--|--|--|
-| HR01   |  |
-| HR02 | |  |
-| HR03 |  |  |
+| HR01 | Loading Different Images of number plates  |  |
+| HR02 | Writing the code |  |
+| HR03 | Loading the database with images |  |
 | HR04 |  | |
 | HR05 | |  |
 
@@ -70,9 +70,9 @@ Vehicle Number Plate Detection aims at detection of the License Plate present on
 
 | ID | Description | HR ID | Status |
 |--|--|--|--|
-| LR01 | | HR01|  |
-| LR02 |  | HR01|  |
- LR03 |   | HR03|  |
+| LR01 | Giving images as input | HR01|  |
+| LR02 | Checking whether getting the output  | HR01|  |
+ LR03 | Taking the number plate images as input for subsystem   | HR03|  |
 | LR04 |  | HR04|  |
 | LR05 | | HR02|  |
 | LR06 |  | HR05|  |
