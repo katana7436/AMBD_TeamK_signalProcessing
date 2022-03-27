@@ -10,6 +10,15 @@
 | Image5 ![input6](https://user-images.githubusercontent.com/98817564/160226793-64c9f5b2-6647-45df-aae9-32277e807830.jpg)|![input5 output](https://user-images.githubusercontent.com/98817564/160226768-42c6e5f5-acca-4204-a83d-af7294e907ee.png) |
 | Image6 ![input5](https://user-images.githubusercontent.com/98817564/160226822-4e0ec941-767a-4330-81cf-acdadbbb69d8.jpg) |![input 5 output](https://user-images.githubusercontent.com/98817564/160226913-59779a12-381b-4c92-9a4e-cc84d3eb16c0.png)
 
+# Test Plan
+| SR NO. | Test | Expected Output| Output| Status |
+|--|--|--|--|--|
+| 1 | ==1 |KTP-295 | KTP-295 | Passed |
+| 2 | ==2  | HQR-374 | HQR-374  | Passed |
+| 3 |  ==3  |AKH-343 | AKH-343 |Passed |
+| 4| ==4 | AXZ-016 | AXZ-016 |Passed |
+| 5 | ==5 | AWR-310 |AWR-310 | Passed |
+| 6 |==6 |AFR-420 | AFR-420| Passed |
 
 
 

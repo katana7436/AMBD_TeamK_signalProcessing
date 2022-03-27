@@ -1,0 +1,1 @@
+* Code is segregated by both the team members- Anushi and Amit
