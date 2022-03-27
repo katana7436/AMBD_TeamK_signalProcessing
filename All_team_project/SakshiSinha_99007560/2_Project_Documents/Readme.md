@@ -14,6 +14,14 @@ User will input the query image. Query images will be compared with the hair hea
 
 ## 2. 4W's & 1H
 
+| Sl.No | Questions | Description | 
+| :-----: | :-----: | ----- |
+| 1. | What |Hair density Problems|
+| 2. | Who | Women,Men | 
+| 3. | When | Change of climate, water changes affects the scalp and leads to hair problems. |
+| 4. | Where | In every cities and countries. | 
+| 5. | How | By knowing the health of hair people can know the cause and get this issue resolved as soon as possible.|
+
 ## 3. SWOT Ananlysis
 ### Strength
 User can choose the any photo of full area of hair spread and this system will compare two given photos to checks what is the health of hair.
@@ -61,16 +69,6 @@ In the market, better versions of this feature are used by using AI.
 
 ## 5. Flow Chart
 ![hhc](https://user-images.githubusercontent.com/98824269/160252839-699c2905-644c-41d6-9fdb-8e41d10c6613.png)
-
-
-| Sl.No | Questions | Description | 
-| :-----: | :-----: | ----- |
-| 1. | What ||
-| 2. | Who | | 
-| 3. | When | |
-| 4. | Where | | 
-| 5. | How | |
--------------------------------------------------------
 
 ## 6. MATLAB SIMULINK MODEL
 ![model1](https://user-images.githubusercontent.com/98824269/160263386-26c9f2f4-00e5-4b1d-8e7d-4ebb4871c305.png)
