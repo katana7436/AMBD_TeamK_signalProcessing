@@ -6,4 +6,12 @@
 
 ## OUTPUT
 ![output1](https://user-images.githubusercontent.com/98824269/160266556-2f100a6b-3539-41f8-ac2a-6642d95c4d12.png)
+ 
+ **AFTER SWAPPING INPUT**
+ 
+## OUTPUT 1.1
+![Output1 1](https://user-images.githubusercontent.com/98824269/160266769-db30357d-fba2-4fe4-b098-59d9c4a28a61.png)
 
+-----------------
+
+## INPUT 1
