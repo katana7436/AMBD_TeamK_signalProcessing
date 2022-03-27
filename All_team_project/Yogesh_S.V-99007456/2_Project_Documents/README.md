@@ -13,9 +13,9 @@
 	* LLR
 5. System block diagram
 6. System implementation
-	6.1. Advantages
-	6.2. Disadvantages
-	6.3. Application
+* Advantages
+* Disadvantages
+* Application
 --------------------------
 <h1 align="center"> Signal Processing Model </h1>
 <i><h3 align = "center"> Amplitude Modulation</h3></i>
@@ -28,7 +28,7 @@
 Wireless communications have enabled the connection of billions of people to the Internet so that they can reap the benefits of today's digital economy.  It works through electromagnetic signals that are broadcast by an enabled device with air, and without need of physical environment. Electromagnetic signals creating bridge between the sender and receiver. Wireless technology has different forms, delivery methods and different technologies such as, wireless network communication, mobile communication, infrared communication, satellite Communication and Bluetooth communication. The communication process requires different techniques to transmitt the signals without or less noise and for a long distance. Here amplitude modulation technique is emulated using the MatLab model.     
 </p>
 
-1.1 How the signal communication takes place:
+## 1.1 How the signal communication takes place:
 The signal is modulated and then it is transmitted through the channel. The modulated signal is received at the receiver and the demodulated to get the signal transmitted. There are different modulation, demodulation and filtering techniques selected based on the application.    
 
 ## 1.2 Modulation:
