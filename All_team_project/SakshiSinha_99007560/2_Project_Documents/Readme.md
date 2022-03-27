@@ -13,14 +13,8 @@
 User will input the query image. Query images will be compared with the hair health.
 
 ## 2. 4W's & 1H
+![4W1H](https://user-images.githubusercontent.com/98824269/160268297-2880e109-cc8b-4c56-8b19-7a88551c5e98.jpg)
 
-| Sl.No | Questions | Description | 
-| :-----: | :-----: | ----- |
-| 1. | What |Hair density Problems|
-| 2. | Who | Women,Men | 
-| 3. | When | Change of climate, water changes affects the scalp and leads to hair problems. |
-| 4. | Where | In every cities and countries. | 
-| 5. | How | By knowing the health of hair people can know the cause and get this issue resolved as soon as possible.|
 
 ## 3. SWOT Ananlysis
 ### Strength
