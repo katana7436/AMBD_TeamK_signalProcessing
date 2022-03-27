@@ -10,6 +10,10 @@ Implemented the project on matlab as well as on simulink.
 2. Shape detection
 3. Color detection
 
+## Tools 
+1. Matlab R2022a
+2. Simulink 
+
 ## SWOT Analysis
 ![Screenshot (53)](https://user-images.githubusercontent.com/98815258/160269505-fcf7fc76-421c-4c5b-ad17-1f994f5d7618.png)
 
