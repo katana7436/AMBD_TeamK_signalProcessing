@@ -17,6 +17,13 @@ Implemented the project on matlab as well as on simulink.
 ## SWOT Analysis
 ![Screenshot (53)](https://user-images.githubusercontent.com/98815258/160269505-fcf7fc76-421c-4c5b-ad17-1f994f5d7618.png)
 
+## Flow Chart
+![Blank diagram - SWOT analysis with sticky notes](https://user-images.githubusercontent.com/98815258/160270732-8a036765-e731-4457-b257-3d939a7f9bf7.jpeg)
+
+## Block Diagram
+![Blank diagram - SWOT analysis with sticky notes (1)](https://user-images.githubusercontent.com/98815258/160270738-71b6b104-ffa4-4ad7-a572-55e71747cc54.jpeg)
+
+
 ## 4Ws & 1H
 ### What
 The System to spot difference between two images 
