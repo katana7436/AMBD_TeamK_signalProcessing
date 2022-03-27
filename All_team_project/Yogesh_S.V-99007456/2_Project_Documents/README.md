@@ -16,6 +16,7 @@
 * Advantages
 * Disadvantages
 * Application
+7. MATLAB MODEL
 --------------------------
 <h1 align="center"> Signal Processing Model </h1>
 <i><h3 align = "center"> Amplitude Modulation</h3></i>
@@ -116,4 +117,14 @@ THREATS
 2) It is used for ground to air radio communications as well as two way radio links for ground staff as well.
 3) Amplitude modulation in the form of single sideband is still used for HF radio links. 
 4) AM is widely used for the transmission of data in everything from short range wireless links such as Wi-Fi to cellular telecommunications
+-------------------------------------------
+## 7. MATLAB MODEL
+WHOLE MODEL:
+![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/6d251436c122c0d94af26484c70b814a256576a4/All_team_project/Yogesh_S.V-99007456/Images/AM_V2.1.png)
+#
+MODULATION SUB SYSTEM:
+![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/36ae2d4f0ee8842b387a39ae928ae29d06be3ee0/All_team_project/Yogesh_S.V-99007456/Images/modu-sub.PNG)
+#
+DEMODULATION SUB SYSTEM:
+![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/36ae2d4f0ee8842b387a39ae928ae29d06be3ee0/All_team_project/Yogesh_S.V-99007456/Images/demod_sub.PNG)
 
