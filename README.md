@@ -28,19 +28,19 @@
 
 ## Team info:
 
-|Sl.No|     Name         |PS No      | Individual Project                              | Collabarative implementation | Collabarator     |   Reviewed by  |         
-| --- | ----------------- | :-------: | ---------------------------------------------- | ---------------------------- | ---------------- | -------------- | 
-| 1. | Yogesh .S.V       | 99007456 | AMPLITUDE MODULATION                             |            Yes               | Rajeev Ranjan    | |                      
-| 2. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
-| 3. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection         |   No                         |  Individual      | |
-| 4. | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
-| 5. | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
-| 6. | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   Yes                        |  Amit            | |
-| 7. | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
-| 8. | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               
-| 9. | Aman Sharma       | 99007484 | Background Manipulation                          |   No                         |  Individual      | |
-| 10. | Riya Kumari      | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual       | |
-| 11. | Amit             | 99007456 | Iris Recognition                                 |Yes                        | Anushi Chauha | |
+|Sl.No|     Name         |PS No      | Individual Project                              | Collabarative implementation | Collabarator     |           
+| --- | ---------------- | :-------: | ---------------------------------------------- | ---------------------------- | ---------------- | 
+| 1. | Yogesh .S.V       | 99007456 | AMPLITUDE MODULATION                             |            Yes               | Rajeev Ranjan    |                      
+| 2. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | 
+| 3. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection         |   No                         |  Individual      | 
+| 4. | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | 
+| 5. | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | 
+| 6. | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   Yes                        |  Amit            | 
+| 7. | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      |
+| 8. | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      |             
+| 9. | Aman Sharma       | 99007484 | Background Manipulation                          |   No                         |  Individual      | 
+| 10. | Riya Kumari      | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual       | 
+| 11. | Amit Kumar       | 99007456 | Iris Recognition                                 |Yes                           | Anushi Chauha    | 
 --------------------------------------------------------------------
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
