@@ -1,6 +1,4 @@
-## TESt RESULTS:
-The model is tested with various inputs. 
-
+## TEST RESULTS:
 The model is tested by varying different carrier signal amplitude
 
 1) Carrier Amplitude = 2
