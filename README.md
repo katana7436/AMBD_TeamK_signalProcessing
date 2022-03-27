@@ -46,19 +46,20 @@
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
 | Repo creation           | 99007484 | Aman Sharma |
-| Folder wise structure creation in repo  | 99007484 | Aman Sharma |
-| Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
-|Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
-| Team documentation readme file integration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
-| Main repo readme maintenance | 99007456 | Yogesh S.V | 
 | Helped Sakshi Sinha in coding & model design | 99007484  | Aman Sharma |
-| Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
+| Folder wise structure creation in repo  |99007484  | Aman Sharma |
+| Helped Raja Sekhar model design | 99007484  | Aman Sharma |
+| Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
+| Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
+| Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha | 
+| Team documentation readme file integration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
 | Helped Sudheera Dasari in image processing | 99007925 | Amit Kumar |
-| Helped Riya Kumari in coding | 99007929 | Amit Kumar |
-| Helped and Collaborated with Anushi Chauhan in Project| 99007451 | Amit Kumar |
+| Helped Riya Kumari in coding | 99007925 | Amit Kumar |
+| Helped and Collaborated with Anushi Chauhan in Project| 99007925 | Amit Kumar |
 | Helped Sudheera Dasari in image processing | 99007925 | Anushi Chauhan |
 | Helped Anushi Chauhan in Simulink Model | 99007451 | Sudheera Dasari |
-| Helped Raja Sekhar model design | 99007484  | Aman Sharma |
-| Guided team in make model compliance | 99007456 | Yogesh S.v |
+| Main repo readme maintenance | 99007456 | Yogesh S.V | 
+| Guided team in make model compliance | 99007456 | Yogesh S.V | 
+| Model intgeration | 99007456 | Yogesh S.V | 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
