@@ -17,14 +17,7 @@ User will input the query image. Query images will be compared with the hair hea
 
 
 ## 3. SWOT Ananlysis
-### Strength
-User can choose the any photo of full area of hair spread and this system will compare two given photos to checks what is the health of hair.
-### Weakness
-The input could be taken universal upload system.
-### Opportunities
-User can query any two images to give the result of health of image.
-### Threats
-In the market, better versions of this feature are used by using AI.
+![SWOT](https://user-images.githubusercontent.com/98824269/160268523-e3d4a0d2-0cb9-429a-beab-c27dc84ba25c.png)
 
 # 4. Requirements
 
