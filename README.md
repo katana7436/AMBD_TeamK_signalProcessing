@@ -28,8 +28,8 @@
 
 ## Team info:
 
-|Sl.N0| | Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |         
-| 1. | ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
+|Sl.N0|     Name         |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |         
+| 1. | ----------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
 | 2. | Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    | |                      
 | 3. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
 | 4. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection         |   No                         |  Individual      | |
