@@ -17,6 +17,7 @@
 * Disadvantages
 * Application
 7. MATLAB MODEL
+8. References
 --------------------------
 <h1 align="center"> Signal Processing Model </h1>
 <i><h3 align = "center"> Amplitude Modulation</h3></i>
@@ -128,3 +129,8 @@ MODULATION SUB SYSTEM:
 DEMODULATION SUB SYSTEM:
 ![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/36ae2d4f0ee8842b387a39ae928ae29d06be3ee0/All_team_project/Yogesh_S.V-99007456/Images/demod_sub.PNG)
 
+## 8.References:
+1) https://www.youtube.com/watch?v=Yryi1bbmUjU 
+2) https://in.mathworks.com/products/matlab.html 
+3) https://www.youtube.com/watch?v=7fwb2N2QTxY
+4) https://en.wikipedia.org/wiki/Amplitude_modulation
