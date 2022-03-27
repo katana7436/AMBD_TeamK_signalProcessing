@@ -28,18 +28,20 @@
 
 ## Team info:
 
-| Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |                 
-| ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
-| Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                           
-| P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
-| Raja Sekhar       | 99007903 | Image Processing - Differences Detection                |   No                         |  Individual      | |
-| Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
-| Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
-| Anushi Chauhan    | 99007925 | Iris Recognition                                 |  Yes                         |  Amit       | |
-| Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
-| Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
-| Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
-| Riya Kumari       | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual        |                 |
+|Sl.N0| | Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |         
+| 1. | ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
+| 2. | Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                      
+| 3. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
+| 4. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection                |   No                         |  Individual      | |
+| 5. | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
+| 6. | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
+| 7. | Anushi Chauhan    | 99007925 | Iris Recognition                                 |  Yes                         |  Amit       | |
+| 8. | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
+| 9. | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
+| 10. | Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
+| 11. | Riya Kumari       | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual        |                 |
+
+--------------------------------------------------------------------
 ## Contribution to the team: ##
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
@@ -57,6 +59,6 @@
 | Helped Sudheera Dasari in image processing | 99007925 | Anushi Chauhan |
 | Helped Anushi Chauhan in Simulink Model | 99007451 | Sudheera Dasari |
 | Helped Raja Sekhar model design | 99007484  | Aman Sharma |
-
+| Guided team in make model compliance | 99007456 | Yogesh S.v |
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Good
+
