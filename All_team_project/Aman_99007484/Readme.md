@@ -6,7 +6,7 @@
 
 # Requirements
 
-# High Level Requirements
+## High Level Requirements
 | Id          |  High Level Requirements  |    status  |
 | :--        | :--          |   :--     |
 | HLR1        | The system should take only images     | Implemented |
@@ -14,7 +14,7 @@
 | HLR3        | The system should mask the subject out | Implemented |
 | HLR4        | The system should print the image with changed background | Implemented |
 
-# Low Level Requirements
+## Low Level Requirements
 | Id          | Low Level Requirements for HLR1   |    status  |
 | :--        | :--          |   :--     |
 | LLR1.1      | The inputs can take png    | Implemented |
@@ -37,3 +37,17 @@
 | :--        | :--          |   :--     |
 | LLR4.1        | The system should take both the processed images   |  Implemented|
 | LLR4.2        | The system should blend the images using multiply |Implemented  |
+
+
+## SWOT Ananlysis
+### Strength
+User can choose the background and this system will change the background by the use of masking the foreground selection.
+### Weakness
+The subject selection and masking could have been finer.
+### Opportunities
+User can change background without any editing software just by including some add ons in Matlab.
+### Threats
+In the market, better versions of this feature are used by using AI.
+
+## Flow Chart
+![flow chart](https://user-images.githubusercontent.com/64160088/160237858-a6365bff-cc67-4570-bfc8-5e6da5da21ab.png)
