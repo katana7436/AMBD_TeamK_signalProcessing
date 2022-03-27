@@ -32,7 +32,7 @@
 | ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
 | Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                           
 | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
-| Raja Sekhar       | 99007903 | Image Processing - Copy Detection                |   No                         |  Individual      | |
+| Raja Sekhar       | 99007903 | Image Processing - Differences Detection                |   No                         |  Individual      | |
 | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
 | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
 | Anushi Chauhan    | 99007925 | Iris Recognition                                 |  Yes                         |  Amit       | |
@@ -44,15 +44,19 @@
 |           Task          |PS No     |                Contributor             |       
 | ----------------------- | -------- | ------------------------------------------- | 
 | Repo creation           | 99007484 | Aman Sharma |
+| Folder wise structure creation in repo  | 99007484 | Aman Sharma |
 | Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
 |Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
 | Team documentation readme file integration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
 | Main repo readme maintenance | 99007456 | Yogesh S.V | 
-| Helped Sakshi Sinha in coding | 99007484  | Aman Sharma |
+| Helped Sakshi Sinha in coding & model design | 99007484  | Aman Sharma |
 | Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha  |
-| Helped Sakshi Sinha in model design | 99007484  | Aman Sharma |
+| Helped Sudheera Dasari in image processing | 99007925 | Amit Kumar |
+| Helped Riya Kumari in coding | 99007929 | Amit Kumar |
+| Helped and Collaborated with Anushi Chauhan in Project| 99007451 | Amit Kumar |
 | Helped Sudheera Dasari in image processing | 99007925 | Anushi Chauhan |
 | Helped Anushi Chauhan in Simulink Model | 99007451 | Sudheera Dasari |
+| Helped Raja Sekhar model design | 99007484  | Aman Sharma |
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Good
