@@ -30,16 +30,16 @@
 
 |Sl.N0| | Name             |PS No      | Individual Project                               | Collabarative implementation | Collabarator     |   Reviewed by  |         
 | 1. | ---------------- | :-------: | ------------------------------------------------ | ---------------------------- | ---------------- | -------------- | 
-| 2. | Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    |      |                      
+| 2. | Yogesh .S.V       | 99007456 | CR VANET                                         |            Yes               | Rajeev Ranjan    | |                      
 | 3. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | |
-| 4. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection                |   No                         |  Individual      | |
+| 4. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection         |   No                         |  Individual      | |
 | 5. | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | |
 | 6. | Uppala Goutham    | 99007454 | Audio Amplifier                                  |   No                         |  Individual      | |
-| 7. | Anushi Chauhan    | 99007925 | Iris Recognition                                 |  Yes                         |  Amit       | |
+| 7. | Anushi Chauhan    | 99007925 | Iris Recognition                                 |   Yes                        |  Amit            | |
 | 8. | Rajeev Ranjan     | 99007927 | Wireless Communication                           |   Yes                        | Yogesh .S.V      | |
-| 9. | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               |
-| 10. | Aman Sharma       | 99007484 | Background Manipulation                               |   No                         |  Individual      | |
-| 11. | Riya Kumari       | 99007929 | Vehicle Number Plate Detection                   |No                            | Individual        |                 |
+| 9. | Sakshi Sinha      | 99007560 | Hair Health Checker                              |   No                         |  Individual      | |               
+| 10. | Aman Sharma       | 99007484 | Background Manipulation                         |   No                         |  Individual      | |
+| 11. | Riya Kumari       | 99007929 | Vehicle Number Plate Detection                  |No                            | Individual       | |
 
 --------------------------------------------------------------------
 ## Contribution to the team: ##
