@@ -47,34 +47,34 @@ After the PLL has locked, it can create an output sinusoid that follows frequenc
 ### SWOT ANALYSIS
 
 #### Strength
-     It has a larger signal-to-noise ratio meaning it will reject radio frequency interferences much better than an equal power amplitude modulation (AM) signal.
+It has a larger signal-to-noise ratio meaning it will reject radio frequency interferences much better than an equal power amplitude modulation (AM) signal.
      
 #### Weakness
-     Not linear as the output is dependent upon the curve of a filter. Not particularly effective as it requires the signal to be centred on the falling response of a      filter. This means that the signal cannot be received at its maximum signal strength.
+ Not linear as the output is dependent upon the curve of a filter. Not particularly effective as it requires the signal to be centred on the falling response of a       filter. This means that the signal cannot be received at its maximum signal strength.
 
 #### Opportunity
-     For small values of modulation index, when using narrow-band FM, NBFM, radio communication systems, the signal consists of the carrier and the two sidebands            spaced at the modulation frequency either side of the carrier.
+ For small values of modulation index, when using narrow-band FM, NBFM, radio communication systems, the signal consists of the carrier and the two sidebands             spaced at the modulation frequency either side of the carrier.
      
 #### Threats 
-      It is not particularly effective and is not used except when the receiver does not have an FM capability. This form of FM detection has very many limitations:         the selectivity curve of the radio will not be at all linear and distortion will arise; the receiver will be sensitive to amplitude variations, etc.
+ It is not particularly effective and is not used except when the receiver does not have an FM capability. This form of FM detection has very many limitations:         the selectivity curve of the radio will not be at all linear and distortion will arise; the receiver will be sensitive to amplitude variations, etc.
       
 ### 4W'S 1 H
 
 #### Where
 
-     Broadcast receivers, two way radios like walkie talkies and handheld radios that use FM, and any receiver where frequency modulation is used.
+ Broadcast receivers, two way radios like walkie talkies and handheld radios that use FM, and any receiver where frequency modulation is used.
      
 #### When
 
-      In comming Signal in the form of Sinusoidal wave with noice.
+ In comming Signal in the form of Sinusoidal wave with noice.
       
 #### Who
 
-     FM demodulator circuits.
+  FM demodulator circuits.
      
 #### How
 
-      It can be used to provide FM demodulation when only an AM detector is present.
+  It can be used to provide FM demodulation when only an AM detector is present.
 
 ### Applications
 
