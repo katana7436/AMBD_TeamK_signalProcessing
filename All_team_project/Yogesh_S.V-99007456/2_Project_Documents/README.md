@@ -29,7 +29,7 @@ Wireless communications have enabled the connection of billions of people to the
 </p>
 
 1.1 How the signal communication takes place:
-The signal is modulated 
+The signal is modulated and then it is transmitted through the channel. The modulated signal is received at the receiver and the demodulated to get the signal transmitted. There are different modulation, demodulation and filtering techniques selected based on the application.    
 
 ## 1.2 Modulation:
 When a carrier is modulated in any way, further signals are created either side of the steady carrier. These sidebands carry the actual modulation information. Modulation is a process of changing the characteristics of the wave to be transmitted by superimposing the message signal on the high-frequency signal. In this process video, voice and other data signals modify high-frequency signals – also known as the carrier wave. This ## 1.. Amplitude modulation:c
@@ -98,8 +98,7 @@ THREATS
 
 ## 5. System block diagram:
 #
-![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/0ef511bef6bf500d90fbb47c1ea7591ba2e6a4e9/All_team_project/Yogesh_S.V-99007456/Images/AM.jpg)
-
+![](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/f951a5f7e6305974477d9e24deba1fbe26a13512/All_team_project/Yogesh_S.V-99007456/Images/AM_2.jpg)
 -----------------------------------------------------------------------------------
 ## 6.1. Advantage:
 1) It is simple to implement
