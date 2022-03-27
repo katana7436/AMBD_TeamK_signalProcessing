@@ -43,15 +43,25 @@ Advantages of modulation:
 ## 1.3 Amplitude modulation: 
 Amplitude modulation (AM) is a modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude (signal strength) of the wave is varied in proportion to that of the message signal, such as an audio signal.
 * AM is expressed in kiloHertz.
+
+## 1.4 AM VS FM:
+
+| AM | FM |
+| ----------------------------------------| ---------------------------------------------- |
+| In amplitude modulation, the frequency and phase remain the same. | In frequency modulation amplitude and phase remain the same. |
+| The amplitude of the carrier wave is modified in order to send the data or information.| The frequency of the carrier wave is modified in order to send the data or information. | 
+| It has simple circuit. | It has complex circuit. |
+| In AM received signal is of low quality | 	In FM received signal is of high quality. |
+|  It operates in the medium frequency (MF) and high frequency (HF). | It operates in the very high frequency. |
 -------------------------------------------------------------------------------------------------------------------
 ##  2. 4W's & 1H
 | Sl.No | Questions | Description | 
 | :-----: | :-----: | ----- |
-| 1. | What |  |
-| 2. | Who |  | 
-| 3. | When |  |
-| 4. | Where |  | 
-| 5. | How |  |
+| 1. | What | Amplitude modulation |
+| 2. | Who | General public  | 
+| 3. | When | Signal transmission |
+| 4. | Where | TV broadcast and long distance transmission | 
+| 5. | How | Modulation of the carrier signal |
 -------------------------------------------------------
 ## 3. SWOT Analysis
 STRENGTHS
