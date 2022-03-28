@@ -6,6 +6,6 @@
 |TC-4|MeanVal is not equal to MeanVal2| Image1 & Image2|Different Iris|Different Iris|Pass|
 
 ## Output 1
-![diagram](/All_team_project/Anushi_99007925_Amit_99007922/4_Test_Results/Images/D.png)
+![diagram](/All_team_project/Anushi_99007925/4_Test_Results/Images/D.png)
 ## Output 2
-![diagram](/All_team_project/Anushi_99007925_Amit_99007922/4_Test_Results/Images/S.png)
+![diagram](/All_team_project/Anushi_99007925/4_Test_Results/Images/S.png)
