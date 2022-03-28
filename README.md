@@ -29,8 +29,8 @@
 ## Team info:
 
 |Sl.No|     Name         |PS No      | Individual Project                              | Collabarative implementation | Collabarator     |           
-| --- | ---------------- | :-------: | ---------------------------------------------- | ---------------------------- | ---------------- | 
-| 1. | Yogesh .S.V       | 99007456 | AMPLITUDE MODULATION                             |            Yes               | Rajeev Ranjan    |                      
+| --- | ---------------- | :-------: | ---------------------------------------------- | ----------------------------- | ---------------- | 
+| 1. | Yogesh .S.V       | 99007456 | AMPLITUDE MODULATION                             |            No                | Individual       |                      
 | 2. | P.Guru Teja Reddy | 99007900 | Add two images and make an another image         |   No                         |  Individual      | 
 | 3. | Raja Sekhar       | 99007903 | Image Processing - Differences Detection         |   No                         |  Individual      | 
 | 4. | Sudheera Dasari   | 99007451 | Face Recognition                                 |   No                         |  Individual      | 
