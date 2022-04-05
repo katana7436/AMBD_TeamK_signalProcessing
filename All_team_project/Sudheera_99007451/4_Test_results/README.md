@@ -14,4 +14,6 @@
 ![subsytem](https://user-images.githubusercontent.com/87614111/160246449-fe49262a-2e32-462e-9704-43d44b7ef684.JPG)
 # Output
 
-![output mat1](https://user-images.githubusercontent.com/87614111/160251325-ab13677f-2b11-4e53-b333-a727a27e8f3b.JPG)
+
+![matlab output1](https://user-images.githubusercontent.com/87614111/161811624-fa48d38b-e7c7-4a26-8a3e-be0024ca2477.JPG)
+![matlab output2](https://user-images.githubusercontent.com/87614111/161811636-d2726b83-c1b0-4d78-9422-d29ebf6647bf.JPG)
