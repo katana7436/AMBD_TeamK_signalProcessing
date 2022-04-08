@@ -43,6 +43,11 @@ Advantages of modulation:
 * To allocate more channels for transmission.
 
 ## 1.3 Amplitude modulation: 
+<p align="center">
+  <img width = 720 height= 300 src="https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/0327de3473a38194036ec904ba848a925e5ef23b/All_team_project/Yogesh_S.V-99007456/Images/AM-wave.png">
+</p> <br>
+
+
 Amplitude modulation (AM) is a modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude (signal strength) of the wave is varied in proportion to that of the message signal, such as an audio signal.
 * AM is expressed in kiloHertz.
 
