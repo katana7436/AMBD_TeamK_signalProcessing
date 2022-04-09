@@ -52,7 +52,7 @@
 | Team connect schedule   | 99007927 | Rajeev Ranjan                               |     
 | Daily mail updates on the <br> individual agenda for the day | 99007560 | Sakshi Sinha | 
 | Helped Aman Sharma in error removal in coding  | 99007560 | Sakshi Sinha | 
-| Team documentation readme file integration | 99007903 <br> 99007454 <br> 9907900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
+| Team documentation readme file integration | 99007903 <br> 99007454 <br> 99007900 |Raja Sekhar <br> U. Gautam <br> Guru Teja Reddy | 
 | Helped Sudheera Dasari in image processing | 99007925 | Amit Kumar |
 | Helped Riya Kumari in coding | 99007925 | Amit Kumar |
 | Helped and Collaborated with Anushi Chauhan in Project| 99007925 | Amit Kumar |
