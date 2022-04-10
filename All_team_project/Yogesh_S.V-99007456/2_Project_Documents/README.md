@@ -1,11 +1,10 @@
 ## In this folder the project documentation for amplitude modulation will be maintained. 
 
 # Table of content : #
-
 1. Introduction 
-	1.1. Signal transmission
-	1.2. Modulation
-	1.3. Amplitude modulation
+	* 1.1\. Signal transmission
+	* 1.2\. Modulation
+	* 1.3\. Amplitude modulation
 2. 4W 1H
 3. SWOT analysis  
 4. Requirements:
@@ -13,9 +12,9 @@
 	* LLR
 5. System block diagram
 6. System implementation
-* Advantages
-* Disadvantages
-* Application
+	* Advantages
+	* Disadvantages
+	* Application
 7. MATLAB MODEL
 8. References
 --------------------------
