@@ -27,7 +27,7 @@
 ![Signal](https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/ca4c9eda7770ce8426e1e556a0e895330ef27f1c/All_team_project/Yogesh_S.V-99007456/Images/signal.jpg)
 
 <p align ="justify">
-Wireless communications have enabled the connection of billions of people to the Internet so that they can reap the benefits of today's digital economy.  It works through electromagnetic signals that are broadcast by an enabled device with air, and without the need of a physical environment. Electromagnetic signals create a bridge between the sender and receiver. Wireless technology has different forms, delivery methods and different technologies such as, wireless network communication, mobile communication, infrared communication, satellite Communication and Bluetooth communication. The communication process requires different techniques to transmit the signals without or less noise and for a long distance. Here amplitude modulation technique is emulated using the MatLab model.     
+Wireless communications have enabled the connection of billions of people to the Internet so that they can reap the benefits of today's digital economy.  It works through electromagnetic signals that are broadcast by an enabled device with air, and without the need of a physical environment. Electromagnetic signals create a bridge between the sender and receiver. Wireless technology has different forms, delivery methods and different technologies such as wireless network communication, mobile communication, infrared communication, satellite Communication and Bluetooth communication. The communication process requires different techniques to transmit the signals without or less noise and for a long distance. Here amplitude modulation technique is emulated using the MatLab model.     
 </p>
 
 ## 1.1) How the signal communication takes place:
@@ -46,8 +46,7 @@ When a carrier is modulated in any way, further signals are created either side 
   <img width = 720 height= 300 src="https://github.com/katana7436/AMBD_TeamK_signalProcessing/blob/0327de3473a38194036ec904ba848a925e5ef23b/All_team_project/Yogesh_S.V-99007456/Images/AM-wave.png">
 </p> <br>
 
-Amplitude modulation (AM) is a modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude (signal strength) of the wave is varied in proportion to that of the message signal, such as an audio signal.
-* AM is expressed in kiloHertz.
+Amplitude modulation (AM) is a modulation technique used in electronic communication, most commonly for transmitting messages with a radio wave. In amplitude modulation, the amplitude (signal strength) of the wave is varied in proportion to that of the message signal, such as an audio signal. AM is expressed in kiloHertz.
 #
 ## 1.4) AM VS FM:
 
@@ -62,7 +61,7 @@ Amplitude modulation (AM) is a modulation technique used in electronic communica
 -------------------------------------------------------------------------------------------------------------------
 ##  2) 4W's & 1H
 | Sl.No | Questions | Description | 
-| :-----: | :-----: | ----- |
+| :---: | :-----: | ----- |
 | 1. | What | Amplitude modulation |
 | 2. | Who | General public  | 
 | 3. | When | Signal transmission |
@@ -99,7 +98,7 @@ Amplitude modulation (AM) is a modulation technique used in electronic communica
 | HLR_ID |LLR_ID | Design_consideration | 
 | :-----: | :-----: | -------------------- | 
 | HLR_1 | LLR_1.1 |The message signal is offseted by a constant value to avoid the zero crossing |
-| | LLR_1.2 |The message and carrier signal are imputed to modulator to give modulated signal |  
+| | LLR_1.2 |The message and carrier signal are inputed to modulator to give a modulated signal |  
 | HLR_2 | LLR_2.1 |The modulated signal is filtered using the filter|
 | HLR_3 | LLR_3.1 | The filtered signal is demodulated using the demodulator |
 | HLR_4 | LLR_4.1 | Transmit the signal through the channel without much loss is quality in data|
@@ -111,7 +110,7 @@ Amplitude modulation (AM) is a modulation technique used in electronic communica
 
 -----------------------------------------------------------------------------------
 ## 6.1) Advantage:
-1) It is simple to implement
+1) It is simple to implement.
 2) It can be demodulated using a circuit consisting of very few components.
 3) AM receivers are very cheap as no specialised components are needed.
 #
