@@ -1,4 +1,3 @@
-YOGESH S.V : AMPLITUDE MODULATION AND DEMODULATION
-# Drive link for MATLAB model explanation video:
-#
-https://drive.google.com/drive/folders/1LCR7w8FUB-_eYZYcEL1w7U58Y2X3TaZT?usp=sharing
+# Integrated project video
+
+https://drive.google.com/file/d/1uHyUh9E6HJV_dxDT8ps17xKaHA_ozYEI/view?usp=sharing 
